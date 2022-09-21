@@ -4,3 +4,6 @@ sonar cube
 nexus
 ansible
 docker 
+s3 
+vpc
+subnet
